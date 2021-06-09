@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#linea {
+    color: grey;
+}
+#testalogo {
+    background-color: white;
+}
+
+#logo {
+    height: 80px;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    vertical-align: middle;
+}
+#logotext {
+    color: #00003f;
+    font-size: 35px; 
+    font-family: Arial;
+    vertical-align: middle;
+}
