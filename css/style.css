@@ -78,6 +78,22 @@ body {
     padding: 5px 10px;
     font-size: 12px;
 }
+.purple{
+    background-color: violet;
+}
+
+.green{
+    background-color: yellowgreen;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.box{
+    border: 1px solid red;
+    color: red;
+}
 
 
 
